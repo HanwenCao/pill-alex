@@ -11,7 +11,7 @@ from copy import deepcopy
 import math
 import serial
 
-
+    
 class AuboController (threading.Thread):
     def __init__(self, robot_ip_):
         self.robot = robotcontrol.Auboi5Robot()
