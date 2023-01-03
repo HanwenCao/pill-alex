@@ -168,6 +168,9 @@ if __name__ == "__main__":
                 fig.canvas.draw()
                 fig.canvas.flush_events()
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 85b35a0 (Added timing in main)
+=======
 >>>>>>> parent of 85b35a0 (Added timing in main)
 =======
 >>>>>>> parent of 85b35a0 (Added timing in main)
@@ -261,6 +264,7 @@ if __name__ == "__main__":
                     
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     # Grasp SOME without looking
                     mc.go_position(mc.find_box(pill_name[-1]))
                     time.sleep(0.1)
@@ -271,6 +275,8 @@ if __name__ == "__main__":
                 
 
 =======
+=======
+>>>>>>> parent of 85b35a0 (Added timing in main)
 =======
 >>>>>>> parent of 85b35a0 (Added timing in main)
                     # Update
